@@ -1,4 +1,7 @@
-# Hospital_Patient_Management_System
+# Hospital_Patient_Management_System(9.3/10)
+
+![image](https://github.com/user-attachments/assets/1c1b14eb-52c2-4a5d-bc80-30a19ba90152)
+
 A comprehensive Java-based simulation of a hospital management system that models patient records, billing, departmental structure, and staff salary computations using object-oriented programming principles.
 
 This system demonstrates inheritance, polymorphism, encapsulation, and collection handling in Java.
